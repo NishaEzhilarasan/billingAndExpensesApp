@@ -1,0 +1,10 @@
+<resources>
+    <string name="google_app_id" translatable="false">1:845677002094:android:dbbffaf158474929fad57f</string>
+    <string name="gcm_defaultSenderId" translatable="false">845677002094</string>
+    <string name="default_web_client_id" translatable="false">[YOUR_WEB_CLIENT_ID]</string>
+    <string name="firebase_database_url" translatable="false">https://expenses-tracker-55eef.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyD3CHuCNJ5LDp2os5GA1xj7N5l_8QfIj1I</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD3CHuCNJ5LDp2os5GA1xj7N5l_8QfIj1I</string>
+    <string name="project_id" translatable="false">expenses-tracker-55eef</string>
+    <string name="google_storage_bucket" translatable="false">expenses-tracker-55eef.appspot.com</string>
+</resources>
